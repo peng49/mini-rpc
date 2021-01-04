@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9949bc9-815e-4968-b339-f79af2d8bc36" name="Default Changelist" comment="" />
+    <list default="true" id="a9949bc9-815e-4968-b339-f79af2d8bc36" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/rpc-server/target/" />
@@ -44,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/rpc-codec/src/test/java/com/github/peng49/minirpc/codec/JSONEncoderTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="78">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="18" selection-end-column="5" />
+              <caret line="7" selection-start-line="7" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -71,14 +74,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rpc-codec/src/test/java/com/github/peng49/minirpc/codec/JSONDecoderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
+            <state relative-caret-position="278">
               <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -112,6 +124,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -132,6 +147,7 @@
         <option value="$PROJECT_DIR$/rpc-codec/src/test/java/com/github/peng49/minirpc/codec/TestBean.java" />
         <option value="$PROJECT_DIR$/rpc-codec/src/test/java/com/github/peng49/minirpc/codec/JSONEncoderTest.java" />
         <option value="$PROJECT_DIR$/rpc-codec/src/test/java/com/github/peng49/minirpc/codec/JSONDecoderTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -143,11 +159,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="260" />
-    <option name="y" value="39" />
+    <option name="x" value="739" />
+    <option name="y" value="43" />
     <option name="width" value="1775" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -163,61 +180,27 @@
             <path>
               <item name="mini-rpc" type="b2602c69:ProjectViewProjectNode" />
               <item name="mini-rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="rpc-codec" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc-common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mini-rpc" type="b2602c69:ProjectViewProjectNode" />
               <item name="mini-rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="rpc-codec" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc-common" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mini-rpc" type="b2602c69:ProjectViewProjectNode" />
               <item name="mini-rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="rpc-codec" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc-common" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mini-rpc" type="b2602c69:ProjectViewProjectNode" />
               <item name="mini-rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="rpc-codec" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini-rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="rpc-codec" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="codec" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini-rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="rpc-codec" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini-rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="rpc-codec" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini-rpc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-rpc" type="462c0819:PsiDirectoryNode" />
-              <item name="rpc-codec" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="codec" type="462c0819:PsiDirectoryNode" />
+              <item name="rpc-common" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -230,7 +213,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609769150056" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609769583513" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -361,7 +344,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609766323201</updated>
-      <workItem from="1609766326782" duration="2788000" />
+      <workItem from="1609766326782" duration="3235000" />
     </task>
     <servers />
   </component>
@@ -381,12 +364,15 @@
     <history-entry file="JSONEncoderTest_encode - 2021.01.04 at 22h 01m 27s.xml">
       <configuration name="JSONEncoderTest.encode" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="JSONDecoderTest_decode - 2021.01.04 at 22h 05m 40s.xml">
+      <configuration name="JSONDecoderTest.decode" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2788000" />
+    <option name="totallyTimeSpent" value="3235000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="680" y="243" width="1775" height="1000" extended-state="0" />
+    <frame x="739" y="43" width="1775" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -400,11 +386,11 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.33025405" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298731" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6989619" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -565,17 +551,24 @@
     <entry file="file://$PROJECT_DIR$/rpc-codec/src/test/java/com/github/peng49/minirpc/codec/JSONEncoderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="18" selection-end-column="5" />
+          <caret line="7" selection-start-line="7" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rpc-codec/src/test/java/com/github/peng49/minirpc/codec/JSONDecoderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
+        <state relative-caret-position="278">
           <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
