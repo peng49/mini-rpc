@@ -16,6 +16,7 @@
         <module>rpc-transport</module>
         <module>rpc-proto</module>
         <module>rpc-codec</module>
+        <module>rpc-example</module>
     </modules>
 
     <properties>
