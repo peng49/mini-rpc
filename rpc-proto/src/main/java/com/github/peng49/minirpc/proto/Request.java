@@ -1,4 +1,4 @@
-package com.github.peng49.minirpc;
+package com.github.peng49.minirpc.proto;
 
 import lombok.Data;
 

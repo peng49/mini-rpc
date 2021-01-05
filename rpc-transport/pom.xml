@@ -10,6 +10,21 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>rpc-transport</artifactId>
+    <dependencies>
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.eclipse.jetty</groupId>
+            <artifactId>jetty-servlet</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.peng49</groupId>
+            <artifactId>rpc-proto</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+    </dependencies>
 
 
 </project>
