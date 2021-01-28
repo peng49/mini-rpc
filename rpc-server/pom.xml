@@ -33,11 +33,6 @@
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>com.github.peng49</groupId>
-            <artifactId>rpc-common</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-        <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
         </dependency>
