@@ -9,4 +9,9 @@ public class RpcServer {
     public void start() {
 
     }
+
+    public void stop()
+    {
+
+    }
 }
