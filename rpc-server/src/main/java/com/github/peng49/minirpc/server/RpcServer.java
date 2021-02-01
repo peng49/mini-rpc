@@ -2,7 +2,7 @@ package com.github.peng49.minirpc.server;
 
 public class RpcServer {
 
-    public void register(Class<?> clazz, Class<?> object) {
+    public <T> void  register(Class<T> clazz, Class<? extends T> object) {
 
     }
 
