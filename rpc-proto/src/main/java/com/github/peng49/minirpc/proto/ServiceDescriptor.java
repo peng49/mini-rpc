@@ -5,6 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.lang.reflect.Method;
+import java.util.Arrays;
 
 @Data
 @AllArgsConstructor
@@ -42,5 +43,15 @@ public class ServiceDescriptor {
 
         ServiceDescriptor that = (ServiceDescriptor) obj;
         return this.toString().equals(that.toString());
+    }
+
+    @Override
+    public String toString() {
+        return "ServiceDescriptor{" +
+                "clazz='" + clazz + '\'' +
+                ", method='" + method + '\'' +
+                ", returnType='" + returnType + '\'' +
+                ", parameterTypes=" + Arrays.toString(parameterTypes) +
+                '}';
     }
 }

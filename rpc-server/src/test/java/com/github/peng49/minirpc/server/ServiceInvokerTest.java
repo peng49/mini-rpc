@@ -29,10 +29,10 @@ public class ServiceInvokerTest{
         Request request = new Request();
         request.setService(descriptor);
 
-        ServiceInstance instance = sm.lookup(request);
+        ServiceInstance service = sm.lookup(request);
 
         ServiceInvoker invoker = new ServiceInvoker();
 
-        Object invoke = invoker.invoke(instance,request);
+        Object invoke = invoker.invoke(service,request);
     }
 }
